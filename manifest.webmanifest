@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Stepwise Ventures",
+  "short_name": "Stepwise",
+  "description": "Shop and order from Stepwise Ventures in Port Moresby, Papua New Guinea.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F4EE",
+  "theme_color": "#12161b",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
